@@ -7,14 +7,14 @@ This journal is meant to document the creation of an isometric urban game!
 
 Summary of today: I spent today learning the fundamentals of godot and started the illustrations for the ground of my world and the sketch of my main chrachter!
 
-## (3PM -> 4PM) 1 hour
+### (3PM -> 4PM) 1 hour
 
 Watched and tried following tutorial: https://youtu.be/LOhfqjmasi0?feature=shared
 
 so this is difficult, and did not show how to use the isometric pattern... time to see how to learn that!
 
 
-## (4PM -> 7:30PM) 3.5 hours
+### (4PM -> 7:30PM) 3.5 hours
 
 So I found this nifty tutorial : https://www.youtube.com/watch?v=wLldN3KX0dI and they said to design sprites first. Onto procreate!
 
@@ -29,7 +29,7 @@ Here's everything uploaded to godot!
 <img width="2523" height="1599" alt="image" src="https://github.com/user-attachments/assets/fbbf4a6d-e445-4ae5-994e-e64df09f430b" />
 
 
-## (10 pm -> 1AM) 3 hours
+### (10 pm -> 1AM) 3 hours
 
 Spent time creating the main charachter! Went through some revisions:
 
@@ -42,11 +42,18 @@ Spent time creating the main charachter! Went through some revisions:
 
   ## 8/12/2025
 
-  (3pm -> 4pm)
+  (3pm -> 4pm) 1 Hour
 
   I worked on some more tileart! I think I have developed the neon-future color theme I want for this game
   
   <img width="396" height="479" alt="image" src="https://github.com/user-attachments/assets/87dfd4b4-2224-4c70-981a-8a743012fc03" />
+
+  ### (4PM -> Present)
+
+  So the game window on godot isn't showing anythign so I am debugging... this might take a minute
+
+  <img width="1137" height="715" alt="image" src="https://github.com/user-attachments/assets/3c764a79-635f-4252-80ca-7ba13b5f05f5" />
+
 
 
 
