@@ -3,14 +3,41 @@
 This journal is meant to document the creation of an isometric urban game!
 
 
-## 8/11/2025
+## 8/11/2025 (7.5 hours) 
 
-### 3PM -> <present>
+Summary of today: I spent today learning the fundamentals of godot and started the illustrations for the ground of my world and the sketch of my main chrachter!
 
-Am working on learning how to use godot! 
-
-(3PM -> 4PM) 
+## (3PM -> 4PM) 1 hour
 
 Watched and tried following tutorial: https://youtu.be/LOhfqjmasi0?feature=shared
 
 so this is difficult, and did not show how to use the isometric pattern... time to see how to learn that!
+
+
+## (4PM -> 7:30PM) 3.5 hours
+
+So I found this nifty tutorial : https://www.youtube.com/watch?v=wLldN3KX0dI and they said to design sprites first. Onto procreate!
+
+
+sample ground block I created:
+<img width="2732" height="2048" alt="IMG_4928" src="https://github.com/user-attachments/assets/9fdbbf09-9649-4191-bda8-677b9b37ca0a" />
+
+Was creating assets but then my ipad crashed and lost all my work... so i restarted :D
+
+Here's everything uploaded to godot!
+
+<img width="2523" height="1599" alt="image" src="https://github.com/user-attachments/assets/fbbf4a6d-e445-4ae5-994e-e64df09f430b" />
+
+
+## (10 pm -> 1AM) 3 hours
+
+Spent time creating the main charachter! Went through some revisions:
+
+- first I wanted to do a UFO like setup which looked clunky and pretty unoriginal
+- then I fiddled around with some robot sketches, but felt that it was also a bit boring
+- I finally setted on a cat (inspired by my cat!) on a caterpillar track
+
+  <img width="1613" height="1119" alt="image" src="https://github.com/user-attachments/assets/505efe0d-7978-44a9-b0b3-76a001faee8c" />
+
+
+
