@@ -1,0 +1,47 @@
+[gd_scene load_steps=10 format=4 uid="uid://diylj57t5c37y"]
+
+[ext_resource type="Texture2D" uid="uid://cem77uwjqjs6c" path="res://Assets/sprites/block.png" id="1_fc0e3"]
+[ext_resource type="Texture2D" uid="uid://dk4so2tahmc0e" path="res://Assets/sprites/ramp 1.png" id="2_7jktm"]
+[ext_resource type="Texture2D" uid="uid://clbr66t5natr2" path="res://Assets/sprites/ramp 3.png" id="3_ryrav"]
+[ext_resource type="Texture2D" uid="uid://2ceshsj7cg7q" path="res://Assets/sprites/blank.png" id="4_eow3j"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_j5wjh"]
+texture = ExtResource("1_fc0e3")
+0:0/0 = 0
+0:0/0/texture_origin = Vector2i(0, -4)
+0:1/0 = 0
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_vef74"]
+texture = ExtResource("2_7jktm")
+0:0/0 = 0
+0:0/0/texture_origin = Vector2i(0, -4)
+0:0/0/z_index = 1
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_hve3p"]
+texture = ExtResource("3_ryrav")
+0:0/0 = 0
+0:0/0/texture_origin = Vector2i(0, -4)
+0:0/0/z_index = 1
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_mfdv2"]
+texture = ExtResource("4_eow3j")
+0:0/0 = 0
+0:0/0/texture_origin = Vector2i(0, -4)
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(0, -4, -8, 0, 0, 4, 8, 0)
+
+[sub_resource type="TileSet" id="TileSet_mwb40"]
+tile_shape = 1
+tile_size = Vector2i(16, 8)
+physics_layer_0/collision_layer = 1
+sources/0 = SubResource("TileSetAtlasSource_j5wjh")
+sources/1 = SubResource("TileSetAtlasSource_vef74")
+sources/2 = SubResource("TileSetAtlasSource_hve3p")
+sources/3 = SubResource("TileSetAtlasSource_mfdv2")
+
+[node name="game" type="Node2D"]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="."]
+y_sort_enabled = true
+texture_filter = 1
+tile_map_data = PackedByteArray("AAD+/wEAAAAAAAAAAAD//wIAAAAAAAAAAAD//wMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAD//wEAAAAAAAAAAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////AAAAAAAAAAD+//7/AAAAAAAAAAD+//3/AAAAAAAAAAD///z/AAAAAAAAAAAAAPz/AAAAAAAAAAAAAP3/AAAAAAAAAAABAP7/AAAAAAAAAAD///v/AAAAAAAAAAD9//3/AAAAAAAAAAD+//z/AAAAAAAAAAD+//v/AAAAAAAAAAD///r/AAAAAAAAAAD///n/AAAAAAAAAAAAAPr/AAAAAAAAAAAAAPv/AAAAAAAAAAABAPz/AAAAAAAAAAABAP3/AAAAAAAAAAACAPr/AAAAAAAAAAABAPn/AAAAAAAAAAABAPj/AAAAAAAAAAAAAPf/AAAAAAAAAAAAAPb/AAAAAAAAAAD///X/AAAAAAAAAAD///b/AAAAAAAAAAD+//f/AAAAAAAAAAD+//j/AAAAAAAAAAD9//n/AAAAAAAAAAD9//r/AAAAAAAAAAAAAP7/AQAAAAAAAAD///7/AgAAAAAAAAD9//v/AgAAAAAAAAD+//r/AgAAAAAAAAD+//n/AgAAAAAAAAD///j/AgAAAAAAAAD+////AgAAAAAAAAAAAP//AQAAAAAAAAABAPv/AQAAAAAAAAABAPr/AQAAAAAAAAAAAPn/AQAAAAAAAAAAAPj/AQAAAAAAAAA=")
+tile_set = SubResource("TileSet_mwb40")
