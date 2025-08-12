@@ -3,10 +3,9 @@
 This journal is meant to document the creation of an isometric urban game!
 
 
-## 8/11/2025
+## 8/11/2025 (7.5 hours) 
 
-
-Am working on learning how to use godot! 
+Summary of today: I spent today learning the fundamentals of godot and started the illustrations for the ground of my world and the sketch of my main chrachter!
 
 ## (3PM -> 4PM) 1 hour
 
@@ -30,8 +29,15 @@ Here's everything uploaded to godot!
 <img width="2523" height="1599" alt="image" src="https://github.com/user-attachments/assets/fbbf4a6d-e445-4ae5-994e-e64df09f430b" />
 
 
-## (10 pm -> present)
+## (10 pm -> 1AM) 3 hours
 
-am creating the main chrachter!
+Spent time creating the main charachter! Went through some revisions:
+
+- first I wanted to do a UFO like setup which looked clunky and pretty unoriginal
+- then I fiddled around with some robot sketches, but felt that it was also a bit boring
+- I finally setted on a cat (inspired by my cat!) on a caterpillar track
+
+  <img width="1613" height="1119" alt="image" src="https://github.com/user-attachments/assets/505efe0d-7978-44a9-b0b3-76a001faee8c" />
+
 
 
