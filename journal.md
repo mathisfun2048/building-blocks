@@ -40,4 +40,14 @@ Spent time creating the main charachter! Went through some revisions:
   <img width="1613" height="1119" alt="image" src="https://github.com/user-attachments/assets/505efe0d-7978-44a9-b0b3-76a001faee8c" />
 
 
+  ## 8/12/2025
+
+  (3pm -> 4pm)
+
+  I worked on some more tileart! I think I have developed the neon-future color theme I want for this game
+  
+  <img width="396" height="479" alt="image" src="https://github.com/user-attachments/assets/87dfd4b4-2224-4c70-981a-8a743012fc03" />
+
+
+
 
