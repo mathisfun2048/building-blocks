@@ -1,10 +1,9 @@
-[gd_scene load_steps=12 format=4 uid="uid://diylj57t5c37y"]
+[gd_scene load_steps=11 format=4 uid="uid://ccfx1d1q87tj0"]
 
 [ext_resource type="Texture2D" uid="uid://cem77uwjqjs6c" path="res://Assets/sprites/block.png" id="1_fc0e3"]
 [ext_resource type="Texture2D" uid="uid://dk4so2tahmc0e" path="res://Assets/sprites/ramp 1.png" id="2_7jktm"]
 [ext_resource type="Texture2D" uid="uid://clbr66t5natr2" path="res://Assets/sprites/ramp 3.png" id="3_ryrav"]
 [ext_resource type="Texture2D" uid="uid://2ceshsj7cg7q" path="res://Assets/sprites/blank.png" id="4_eow3j"]
-[ext_resource type="PackedScene" uid="uid://duhnl016hkmxy" path="res://Scenes/player.tscn" id="5_7jktm"]
 [ext_resource type="Script" uid="uid://basxkvjpxupfy" path="res://tile_map_layer.gd" id="5_ryrav"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_j5wjh"]
@@ -48,12 +47,3 @@ texture_filter = 1
 tile_map_data = PackedByteArray("AAD+/wEAAAAAAAAAAAD//wIAAAAAAAAAAAD//wMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAD//wEAAAAAAAAAAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////AAAAAAAAAAD+//7/AAAAAAAAAAD+//3/AAAAAAAAAAD///z/AAAAAAAAAAAAAPz/AAAAAAAAAAAAAP3/AAAAAAAAAAABAP7/AAAAAAAAAAD///v/AAAAAAAAAAD9//3/AAAAAAAAAAD+//z/AAAAAAAAAAD+//v/AAAAAAAAAAD///r/AAAAAAAAAAD///n/AAAAAAAAAAAAAPr/AAAAAAAAAAAAAPv/AAAAAAAAAAABAPz/AAAAAAAAAAABAP3/AAAAAAAAAAACAPr/AAAAAAAAAAABAPn/AAAAAAAAAAABAPj/AAAAAAAAAAAAAPf/AAAAAAAAAAAAAPb/AAAAAAAAAAD///X/AAAAAAAAAAD///b/AAAAAAAAAAD+//f/AAAAAAAAAAD+//j/AAAAAAAAAAD9//n/AAAAAAAAAAD9//r/AAAAAAAAAAAAAP7/AQAAAAAAAAD///7/AgAAAAAAAAD9//v/AgAAAAAAAAD+//r/AgAAAAAAAAD+//n/AgAAAAAAAAD///j/AgAAAAAAAAD+////AgAAAAAAAAAAAP//AQAAAAAAAAABAPv/AQAAAAAAAAABAPr/AQAAAAAAAAAAAPn/AQAAAAAAAAAAAPj/AQAAAAAAAAA=")
 tile_set = SubResource("TileSet_mwb40")
 script = ExtResource("5_ryrav")
-
-[node name="Player" parent="." instance=ExtResource("5_7jktm")]
-position = Vector2(0, 14)
-script = null
-
-[node name="Camera2D" type="Camera2D" parent="Player"]
-offset = Vector2(0, -20)
-enabled = false
-zoom = Vector2(5, 5)
