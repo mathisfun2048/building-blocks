@@ -74,6 +74,15 @@ looked into the workings of TileMapLayer objects and how to implement them
 
 also found a way to automate thr placing of boundaries 
 
+## 8/13/2025
+
+### 1PM -> 2PM (1 hour)
+
+tell me why it took me one hour to figure out how to delete blocks... anyways I'm going to start building my world!
+
+<img width="534" height="316" alt="image" src="https://github.com/user-attachments/assets/9aaeaa06-f010-48fd-bb12-9f980451346f" />
+
+
 
 
 
