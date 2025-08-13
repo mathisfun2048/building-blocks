@@ -83,6 +83,16 @@ tell me why it took me one hour to figure out how to delete blocks... anyways I'
 <img width="534" height="316" alt="image" src="https://github.com/user-attachments/assets/9aaeaa06-f010-48fd-bb12-9f980451346f" />
 
 
+### 2PM -> 4PM (2 hours)
+
+Spent some time messign around with the controls and layout and feel I've got a prototype that I like. 
+
+It's inspired by minecraft's end cities!
+
+<img width="1294" height="721" alt="image" src="https://github.com/user-attachments/assets/362b03dc-fdd4-44c4-827d-6293d9b2b4c8" />
+
+
+
 
 
 
