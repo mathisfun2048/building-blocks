@@ -106,6 +106,11 @@ found this awsome tutorial, and it walked me through it! It's officially on itch
 [https://mathisfun.itch.io/building-blocks](https://mathisfun.itch.io/building-blocks)
 
 
+### 5pm -> 6pm (1 hour) 
+
+I am going to try to get the portal setup that will allow my charachters to go into the respective buildings!
+
+
 
 
 
