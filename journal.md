@@ -99,6 +99,11 @@ Am troubleshooting how to export this to the web
 
 4:40 -- update: I couldn't get github pages to work so I am going to try itch.io
 
+found this awsome tutorial, and it walked me through it! It's officially on itch.io
+
+[https://www.youtube.com/watch?v=RiQcnVgBhFE](https://www.youtube.com/watch?v=RiQcnVgBhFE)
+
+[https://mathisfun.itch.io/building-blocks](https://mathisfun.itch.io/building-blocks)
 
 
 
