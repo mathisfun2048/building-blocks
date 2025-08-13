@@ -42,7 +42,7 @@ Spent time creating the main charachter! Went through some revisions:
 
   ## 8/12/2025
 
-  (3pm -> 4pm) 1 Hour
+  ### (3pm -> 4pm) 1 Hour
 
   I worked on some more tileart! I think I have developed the neon-future color theme I want for this game
   
@@ -59,7 +59,7 @@ Spent time creating the main charachter! Went through some revisions:
 
   <img width="1164" height="740" alt="image" src="https://github.com/user-attachments/assets/51936ff0-e016-48db-a69c-1340052add89" />
 
-## (8pm -> 9pm) 1 hour 
+### (8pm -> 9pm) 1 hour 
 
 looked into the workings of TileMapLayer objects and how to implement them 
 
