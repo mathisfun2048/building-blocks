@@ -59,7 +59,11 @@ Spent time creating the main charachter! Went through some revisions:
 
   <img width="1164" height="740" alt="image" src="https://github.com/user-attachments/assets/51936ff0-e016-48db-a69c-1340052add89" />
 
+## (8pm -> 9pm) 1 hour 
 
+looked into the workings of TileMapLayer objects and how to implement them 
+
+also found a way to automate thr placing of boundaries 
 
 
 
