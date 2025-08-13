@@ -3,7 +3,7 @@ title: "Building Blocks"
 author: "Arya"
 description: "a quick logic game to introduce me to godot development"
 created_at: "2025-08-11"
-hours spent: 13.5
+hours spent: 17.5
 ---
 
 
@@ -49,7 +49,7 @@ Spent time creating the main charachter! Went through some revisions:
   <img width="1613" height="1119" alt="image" src="https://github.com/user-attachments/assets/505efe0d-7978-44a9-b0b3-76a001faee8c" />
 
 
-  ## 8/12/2025  6 hours
+  ## 8/12/2025  (6 hours)
 
   ### (3pm -> 4pm) 1 Hour
 
