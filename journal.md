@@ -48,11 +48,17 @@ Spent time creating the main charachter! Went through some revisions:
   
   <img width="396" height="479" alt="image" src="https://github.com/user-attachments/assets/87dfd4b4-2224-4c70-981a-8a743012fc03" />
 
-  ### (4PM -> Present)
+  ### (4PM -> 8PM) 4 hours
 
   So the game window on godot isn't showing anythign so I am debugging... this might take a minute
 
   <img width="1137" height="715" alt="image" src="https://github.com/user-attachments/assets/3c764a79-635f-4252-80ca-7ba13b5f05f5" />
+
+  I GOT IT TO FINALLY WORK
+  LETS GO
+
+  <img width="1164" height="740" alt="image" src="https://github.com/user-attachments/assets/51936ff0-e016-48db-a69c-1340052add89" />
+
 
 
 
