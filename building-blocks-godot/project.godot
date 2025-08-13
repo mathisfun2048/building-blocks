@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="building blocks godot"
-run/main_scene="uid://bdahe7dvhkx0j"
+config/name="Building Blocks Godot"
+run/main_scene="uid://73ni03ueekr1"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
