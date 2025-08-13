@@ -32,6 +32,7 @@ position = Vector2(0, -8)
 sprite_frames = SubResource("SpriteFrames_qhqgy")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-z_index = 2
+z_index = 10
+z_as_relative = false
 position = Vector2(0, -2)
 shape = SubResource("CircleShape2D_dqkch")
