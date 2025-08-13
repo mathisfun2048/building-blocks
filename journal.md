@@ -91,6 +91,12 @@ It's inspired by minecraft's end cities!
 
 <img width="1294" height="721" alt="image" src="https://github.com/user-attachments/assets/362b03dc-fdd4-44c4-827d-6293d9b2b4c8" />
 
+### 4pm -> 5pm (1 hour)
+
+Am troubleshooting how to export this to the web
+
+<img width="723" height="351" alt="image" src="https://github.com/user-attachments/assets/3a1860de-8f90-45bb-9c59-d311e6627a38" />
+
 
 
 
