@@ -3,6 +3,15 @@
 This journal is meant to document the creation of an isometric urban game!
 
 
+---
+title: "Building Blocks"
+author: "Arya"
+description: "a quick logic game to introduce me to godot development"
+created_at: "2025-08-11"
+hours spent: 13.5
+---
+
+
 ## 8/11/2025 (7.5 hours) 
 
 Summary of today: I spent today learning the fundamentals of godot and started the illustrations for the ground of my world and the sketch of my main chrachter!
@@ -40,7 +49,7 @@ Spent time creating the main charachter! Went through some revisions:
   <img width="1613" height="1119" alt="image" src="https://github.com/user-attachments/assets/505efe0d-7978-44a9-b0b3-76a001faee8c" />
 
 
-  ## 8/12/2025
+  ## 8/12/2025  6 hours
 
   ### (3pm -> 4pm) 1 Hour
 
