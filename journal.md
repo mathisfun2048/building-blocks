@@ -97,6 +97,8 @@ Am troubleshooting how to export this to the web
 
 <img width="723" height="351" alt="image" src="https://github.com/user-attachments/assets/3a1860de-8f90-45bb-9c59-d311e6627a38" />
 
+4:40 -- update: I couldn't get github pages to work so I am going to try itch.io
+
 
 
 
