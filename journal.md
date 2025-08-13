@@ -1,8 +1,3 @@
-# Building Blocks
-
-This journal is meant to document the creation of an isometric urban game!
-
-
 ---
 title: "Building Blocks"
 author: "Arya"
@@ -10,6 +5,11 @@ description: "a quick logic game to introduce me to godot development"
 created_at: "2025-08-11"
 hours spent: 13.5
 ---
+
+
+# Building Blocks
+
+This journal is meant to document the creation of an isometric urban game!
 
 
 ## 8/11/2025 (7.5 hours) 
