@@ -3,7 +3,7 @@ title: "Building Blocks"
 author: "Arya"
 description: "a quick logic game to introduce me to godot development"
 created_at: "2025-08-11"
-hours spent: 17.5
+hours spent: 19.5
 ---
 
 
@@ -74,7 +74,7 @@ looked into the workings of TileMapLayer objects and how to implement them
 
 also found a way to automate thr placing of boundaries 
 
-## 8/13/2025
+## 8/13/2025 (6 hours)
 
 ### 1PM -> 2PM (1 hour)
 
@@ -106,7 +106,7 @@ found this awsome tutorial, and it walked me through it! It's officially on itch
 [https://mathisfun.itch.io/building-blocks](https://mathisfun.itch.io/building-blocks)
 
 
-### 5pm -> <present> 
+### 5pm -> 7pm (2 hours) 
 
 I am going to try to get the portal setup that will allow my charachters to go into the respective buildings!
 
