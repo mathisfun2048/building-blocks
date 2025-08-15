@@ -115,6 +115,15 @@ I am going to try to get the portal setup that will allow my charachters to go i
 https://github.com/user-attachments/assets/32b49caf-cb9f-47a3-a629-94752c370e1a
 
 
+## 8/15/2025
+
+## 1PM -> <present>
+
+Lets finish this game!!
+
+I really want to explore what I can do with the portals and am going to make a teleporting maze! The user will need to navigate throuhg different buildings to eventually get to the end! The user will know they ended when they return to the home island. The user is free to choose through whihc one of the gates to go through--they're all open and interlinked >:)
+
+
 
 
 
