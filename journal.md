@@ -127,6 +127,11 @@ Update: 3PM --> winging the portals took a bit too much time... I am now making 
 
 Update: 4:17PM -> there were problems so I re-did the graph! Here is the visiualization! (dont cheat)
 
+![IMG_4935](https://github.com/user-attachments/assets/7edacc97-502f-4213-b010-9052e4e43a16)
+
+
+
+
 
 
 
