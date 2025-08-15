@@ -137,6 +137,11 @@ Update: 4:30 it looked ugly so i redrew it:
 
 lets implement it! I doubt it should be too bad because its just the same asset but multiplied a bunch of times
 
+5:30PM :  quick update screenshot
+
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/c2419d63-3a17-46bc-97d8-91bf225db4ca" />
+
+
 
 
 
