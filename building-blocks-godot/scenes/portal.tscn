@@ -15,7 +15,7 @@ animations = [{
 }]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_jr6l0"]
-radius = 8.0
+radius = 18.2483
 
 [node name="portal" type="Area2D"]
 script = ExtResource("1_1ffj6")
