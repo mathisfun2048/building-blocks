@@ -1,4 +1,4 @@
-[gd_scene load_steps=21 format=4 uid="uid://73ni03ueekr1"]
+[gd_scene load_steps=22 format=4 uid="uid://73ni03ueekr1"]
 
 [ext_resource type="PackedScene" uid="uid://dwpq5phl0lvaw" path="res://scenes/player.tscn" id="1_uwrxv"]
 [ext_resource type="Texture2D" uid="uid://dk4so2tahmc0e" path="res://assets/sprites/ramp 1.png" id="2_0tnpc"]
@@ -11,6 +11,7 @@
 [ext_resource type="Texture2D" uid="uid://b7urjlw3bpwcl" path="res://assets/sprites/green b.png" id="9_ca42v"]
 [ext_resource type="Script" uid="uid://c45w35f55iwc3" path="res://scripts/tile_map_layer.gd" id="10_vtaks"]
 [ext_resource type="PackedScene" uid="uid://hnaljnrnclyr" path="res://scenes/portal.tscn" id="11_kvpfn"]
+[ext_resource type="PackedScene" uid="uid://ca74c30tf876d" path="res://scenes/portal_2.tscn" id="12_dinhu"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_rysoc"]
 texture = ExtResource("2_0tnpc")
@@ -122,6 +123,13 @@ position = Vector2(2, -8)
 [node name="destination point" parent="portal 3" index="2"]
 position = Vector2(546, -87)
 
+[node name="Portal-2" parent="." instance=ExtResource("12_dinhu")]
+position = Vector2(274, -201)
+
+[node name="Destination Point" parent="Portal-2" index="2"]
+position = Vector2(202, 7)
+
 [editable path="portal 1"]
 [editable path="portal 2"]
 [editable path="portal 3"]
+[editable path="Portal-2"]

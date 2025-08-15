@@ -17,7 +17,7 @@ animations = [{
 [sub_resource type="CircleShape2D" id="CircleShape2D_jr6l0"]
 radius = 18.2483
 
-[node name="portal" type="Area2D"]
+[node name="portal" type="Area2D" groups=["Player"]]
 script = ExtResource("1_1ffj6")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]

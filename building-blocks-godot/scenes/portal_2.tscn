@@ -1,0 +1,33 @@
+[gd_scene load_steps=5 format=3 uid="uid://ca74c30tf876d"]
+
+[ext_resource type="Script" uid="uid://cx48ovhkybefb" path="res://scripts/portal_2.gd" id="1_4dnlp"]
+[ext_resource type="Texture2D" uid="uid://dl2i0ylmm01sy" path="res://assets/sprites/portal.png" id="1_wahon"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_4dnlp"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_wahon")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_l0r4i"]
+
+[node name="Portal_2" type="Area2D" groups=["Player"]]
+script = ExtResource("1_4dnlp")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+sprite_frames = SubResource("SpriteFrames_4dnlp")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_l0r4i")
+
+[node name="Destination Point" type="Marker2D" parent="."]
+z_index = 1
+
+[connection signal="area_entered" from="." to="." method="_on_area_entered"]
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
