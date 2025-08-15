@@ -3,7 +3,7 @@ title: "Building Blocks"
 author: "Arya"
 description: "a quick logic game to introduce me to godot development"
 created_at: "2025-08-11"
-hours spent: 19.5
+hours spent: 23
 ---
 
 
@@ -117,9 +117,9 @@ https://github.com/user-attachments/assets/32b49caf-cb9f-47a3-a629-94752c370e1a
 
 ## 8/15/2025
 
-## 1PM -> <present>
+## 1PM -> 4:30PM (3.5 hours)
 
-Lets finish this game!!
+Lets make the maze.
 
 I really want to explore what I can do with the portals and am going to make a teleporting maze! The user will need to navigate throuhg different buildings to eventually get to the end! The user will know they ended when they return to the home island. The user is free to choose through whihc one of the gates to go through--they're all open and interlinked >:)
 
@@ -127,9 +127,15 @@ Update: 3PM --> winging the portals took a bit too much time... I am now making 
 
 Update: 4:17PM -> there were problems so I re-did the graph! Here is the visiualization! (dont cheat)
 
+Update: 4:30 it looked ugly so i redrew it:
+
 
 <img width="1969" height="1730" alt="image" src="https://github.com/user-attachments/assets/7edacc97-502f-4213-b010-9052e4e43a16" />
 
+
+## 4:30PM -> <present>
+
+lets implement it! I doubt it should be too bad because its just the same asset but multiplied a bunch of times
 
 
 
