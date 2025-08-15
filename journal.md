@@ -147,6 +147,17 @@ lets implement it! I doubt it should be too bad because its just the same asset 
 <img width="1129" height="833" alt="image" src="https://github.com/user-attachments/assets/6d6ca735-38f1-4de2-a9e4-3bcde1c01892" />
 
 
+7:30 update:
+
+so the gate spirite looked ugly so I protytped a ton of designs and settled on a portal sprite!
+
+<img width="484" height="622" alt="image" src="https://github.com/user-attachments/assets/94d85544-2885-499b-871f-a80342811543" />
+
+
+
+
+
+
 
 
 
