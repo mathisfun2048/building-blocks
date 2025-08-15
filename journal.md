@@ -141,6 +141,12 @@ lets implement it! I doubt it should be too bad because its just the same asset 
 
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/c2419d63-3a17-46bc-97d8-91bf225db4ca" />
 
+6:10 : another quck screenshot update
+
+
+<img width="1129" height="833" alt="image" src="https://github.com/user-attachments/assets/6d6ca735-38f1-4de2-a9e4-3bcde1c01892" />
+
+
 
 
 
