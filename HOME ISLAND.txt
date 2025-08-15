@@ -1,0 +1,140 @@
+HOME ISLAND
+├── Gate A → P1
+├── Gate B → P2
+└── Gate C → P3
+
+PUZZLE ISLANDS (showing connections):
+P1
+├── Gate 1 → P15
+├── Gate 2 → P4
+├── Gate 3 → P25
+
+P2
+├── Gate 1 → P24
+├── Gate 2 → P18
+├── Gate 3 → P20
+
+P3
+├── Gate 1 → P9
+├── Gate 2 → HOME
+├── Gate 3 → P16
+
+P4
+├── Gate 1 → P11
+├── Gate 2 → P23
+├── Gate 3 → P14
+
+P5
+├── Gate 1 → P19
+├── Gate 2 → P6
+├── Gate 3 → P25
+
+P6
+├── Gate 1 → P13
+├── Gate 2 → P25
+├── Gate 3 → HOME
+
+P7
+├── Gate 1 → 17
+├── Gate 2 → HOME
+├── Gate 3 → P5
+
+P8
+├── Gate 1 → 17
+├── Gate 2 → HOME
+├── Gate 3 → P12
+
+P9
+├── Gate 1 → P23
+├── Gate 2 → P6
+├── Gate 3 → P17
+
+P10
+├── Gate 1 → P20
+├── Gate 2 → HOME
+├── Gate 3 → P2
+
+P11
+├── Gate 1 → P9
+├── Gate 2 → P7
+├── Gate 3 → P8
+
+P12
+├── Gate 1 → P9
+├── Gate 2 → P2
+├── Gate 3 → P27
+
+P13
+├── Gate 1 → P15
+├── Gate 2 → P12
+├── Gate 3 → P21
+
+P14
+├── Gate 1 → HOME
+├── Gate 2 → P8
+├── Gate 3 → P6
+
+P15
+├── Gate 1 → P22
+├── Gate 2 → P6
+├── Gate 3 → P12
+
+P16
+├── Gate 1 → P22
+├── Gate 2 → P24
+├── Gate 3 → P4
+
+P17
+├── Gate 1 → HOME
+├── Gate 2 → P3
+├── Gate 3 → P14
+
+P18
+├── Gate 1 → P25
+├── Gate 2 → P2
+├── Gate 3 → P8
+
+P19
+├── Gate 1 → HOME
+├── Gate 2 → P14
+├── Gate 3 → P23
+
+P20
+├── Gate 1 → P21
+├── Gate 2 → P16
+├── Gate 3 → P17
+
+P21
+├── Gate 1 → P1
+├── Gate 2 → P12
+├── Gate 3 → P10
+
+P22
+├── Gate 1 → P2
+├── Gate 2 → P2
+├── Gate 3 → P6
+
+P23
+├── Gate 1 → P1
+├── Gate 2 → HOME
+├── Gate 3 → P2
+
+P24
+├── Gate 1 → P11
+├── Gate 2 → P22
+├── Gate 3 → HOME
+
+P25
+├── Gate 1 → P23
+├── Gate 2 → P24
+├── Gate 3 → P20
+
+P26
+├── Gate 1 → P27
+├── Gate 2 → P14
+├── Gate 3 → P23
+
+P27
+├── Gate 1 → P14
+├── Gate 2 → P20
+├── Gate 3 → P5
