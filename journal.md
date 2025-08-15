@@ -123,7 +123,7 @@ Lets finish this game!!
 
 I really want to explore what I can do with the portals and am going to make a teleporting maze! The user will need to navigate throuhg different buildings to eventually get to the end! The user will know they ended when they return to the home island. The user is free to choose through whihc one of the gates to go through--they're all open and interlinked >:)
 
-
+Update: 3PM --> winging the portals took a bit too much time... I am now making a graph on my ipad that I will impelment. screenshot comming soon!
 
 
 
