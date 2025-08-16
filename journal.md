@@ -3,7 +3,7 @@ title: "Building Blocks"
 author: "Arya"
 description: "a quick logic game to introduce me to godot development"
 created_at: "2025-08-11"
-hours spent: 23
+hours spent: 28.5
 ---
 
 
@@ -115,7 +115,7 @@ I am going to try to get the portal setup that will allow my charachters to go i
 https://github.com/user-attachments/assets/32b49caf-cb9f-47a3-a629-94752c370e1a
 
 
-## 8/15/2025
+## 8/15/2025 (9 hours)
 
 ## 1PM -> 4:30PM (3.5 hours)
 
@@ -133,7 +133,7 @@ Update: 4:30 it looked ugly so i redrew it:
 <img width="1969" height="1730" alt="image" src="https://github.com/user-attachments/assets/7edacc97-502f-4213-b010-9052e4e43a16" />
 
 
-## 4:30PM -> <present>
+## 4:30PM -> 10PM (5.5 hours)
 
 lets implement it! I doubt it should be too bad because its just the same asset but multiplied a bunch of times
 
@@ -177,6 +177,13 @@ red  = 10-18
 green = 19-27
 
 <img width="1359" height="777" alt="image" src="https://github.com/user-attachments/assets/1101413b-1eae-42c3-886b-da84266c95cc" />
+
+9:55 update:
+
+added all portal connections. The game, in its most basic form, should be working now!
+
+<img width="1006" height="810" alt="image" src="https://github.com/user-attachments/assets/5f172194-273b-46c9-ae2c-b0d8b50ef8fc" />
+
 
 
 
