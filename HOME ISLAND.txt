@@ -111,7 +111,7 @@ P21
 
 P22
 ├── Gate 1 → P2
-├── Gate 2 → P2
+├── Gate 2 → P26
 ├── Gate 3 → P6
 
 P23
