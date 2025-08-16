@@ -161,6 +161,15 @@ got the portal teleport to work! Now I can implement the graph logic
 <img width="1014" height="601" alt="image" src="https://github.com/user-attachments/assets/9a4fcc6a-29c9-493a-92fd-eb59ecac09da" />
 
 
+8:30 update:
+
+Added all 81 portals and renamed them appropriatly. Tiem to st thier destinations!
+
+
+<img width="1116" height="619" alt="image" src="https://github.com/user-attachments/assets/95f4eb06-b81c-4e85-a427-a5078f305bda" />
+
+
+
 
 
 
