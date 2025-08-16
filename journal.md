@@ -168,6 +168,21 @@ Added all 81 portals and renamed them appropriatly. Tiem to st thier destination
 
 <img width="1116" height="619" alt="image" src="https://github.com/user-attachments/assets/95f4eb06-b81c-4e85-a427-a5078f305bda" />
 
+9:05 update:
+
+experimneted with different lables to let the player know which platform they are on, and settled on a visual indication using the colored building blocks from before
+
+blue = 1-9
+red  = 10-18
+green = 19-27
+
+<img width="1359" height="777" alt="image" src="https://github.com/user-attachments/assets/1101413b-1eae-42c3-886b-da84266c95cc" />
+
+
+
+
+
+
 
 
 
